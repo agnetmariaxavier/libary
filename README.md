@@ -1,6 +1,6 @@
 # libary
 Creating a new sql query to manage the libary
-# Retail Sales Analysis SQL Project
+# Libary Analysis SQL Project
 
 ## Project Overview
 
